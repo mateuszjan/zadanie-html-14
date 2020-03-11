@@ -18,7 +18,6 @@ a[href="contact"] {
     background-color: silver;
 }
 
-
 .display {
     text-align: center;    
 }
@@ -55,3 +54,9 @@ a[href="contact"] {
     font-size: 16;
 }
 
+.square {
+    width: 100px;
+    height: 100px;  
+    background-color: purple;
+    border: 5px solid gold;
+}
