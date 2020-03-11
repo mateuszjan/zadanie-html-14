@@ -17,3 +17,41 @@ a[href="contact"] {
 #about-us {
     background-color: silver;
 }
+
+
+.display {
+    text-align: center;    
+}
+
+.display1 {
+    height: 150px;
+    width: 150px;   
+    background-color: red;
+    display: inline-block;
+    font-size: 16;
+}
+
+.display2 {
+    height: 180px;
+    width: 180px;   
+    background-color:blue;
+    display: inline-block;
+    font-size: 16;
+}
+
+.display3 {
+    height: 220px;
+    width: 220px;   
+    background-color: green;
+    display: inline-block;
+    font-size: 16;
+}
+
+.display4 {
+    height: 50px;
+    width: 50px;   
+    background-color: violet;
+    display: inline-block;
+    font-size: 16;
+}
+
