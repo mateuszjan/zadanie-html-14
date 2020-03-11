@@ -1,13 +1,13 @@
-a[href="about-us"] {
+a[href="#about-us"] {
     color: royalblue;
 }
-a[href="skills"] {
+a[href="#skills"] {
     color: violet;
 }
-a[href="portfolio"] {
+a[href="#portfolio"] {
     color: pink;
 }
-a[href="contact"] {
+a[href="#contact"] {
     color: black;
 }
 .nav-item {
@@ -59,4 +59,18 @@ a[href="contact"] {
     height: 100px;  
     background-color: purple;
     border: 5px solid gold;
+}
+
+input[type="submit"] {
+    width: 150px;
+    text-transform: uppercase;
+    background-color: brown;
+}
+
+input[value="Wyślij"] {
+    color: gold;
+}
+
+input:required {
+    border: 1px solid #000;
 }
