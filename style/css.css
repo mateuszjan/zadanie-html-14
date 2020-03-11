@@ -1,0 +1,15 @@
+a[href="about-us"] {
+    color: royalblue;
+}
+a[href="skills"] {
+    color: violet;
+}
+a[href="portfolio"] {
+    color: pink;
+}
+a[href="contact"] {
+    color: black;
+}
+.nav-item {
+    color: green
+}
